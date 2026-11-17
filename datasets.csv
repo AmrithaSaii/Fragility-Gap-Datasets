@@ -1,0 +1,60 @@
+Dataset,OpenML_ID,Set
+German Credit,31,primary
+Bioresponse,4134,primary
+Ozone Level,1487,primary
+First-Order-Theorem,1475,primary
+Wine-Quality-Red,40691,primary
+Electricity,151,primary
+Blood Transfusion,1464,primary
+Haberman Survival,43,primary
+Banknote Auth.,1462,primary
+Climate Model,40994,primary
+Sick,38,primary
+Spambase,44,primary
+Waveform,60,primary
+MagicTelescope,1120,primary
+Churn,40701,primary
+Steel Plates,40982,primary
+Cardiotocography,1466,primary
+Segment,36,primary
+Sonar,40,primary
+Kr-vs-kp,3,primary
+Diabetes,37,primary
+Vehicle,54,primary
+Ionosphere,59,primary
+Breast-w,15,primary
+Tic-Tac-Toe,50,primary
+Credit-Approval,29,primary
+CMC,23,primary
+Car Evaluation,21,primary
+Mfeat-Fourier,14,primary
+PC1 (defects),1068,primary
+Adult,1590,supplementary
+Bank Marketing,1461,supplementary
+Nomao,1486,supplementary
+Letter,6,supplementary
+Pendigits,32,supplementary
+Satimage,182,supplementary
+Vowel,307,supplementary
+Analcatdata Authorship,458,supplementary
+Analcatdata DMFT,469,supplementary
+Balance Scale,11,supplementary
+Mfeat-Factors,12,supplementary
+Mfeat-Karhunen,16,supplementary
+Mfeat-Morphological,18,supplementary
+Mfeat-Zernike,22,supplementary
+Optdigits,28,supplementary
+Splice,46,supplementary
+Cylinder Bands,6332,supplementary
+PC4,1049,supplementary
+PC3,1050,supplementary
+JM1,1053,supplementary
+KC1,1067,supplementary
+KC2,1063,supplementary
+QSAR Biodeg,1494,supplementary
+Mice Protein,40966,supplementary
+WDBC,1510,supplementary
+ILPD,1480,supplementary
+DNA,40670,supplementary
+Madelon,1485,supplementary
+Yeast,181,supplementary
