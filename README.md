@@ -27,4 +27,4 @@ The datasets themselves are not redistributed here; each keeps its own licence o
 
 ## Contact
 
-[Corresponding author name and email, as in the paper]
+Amritha Sai S - amrithasai.s2025@vitstudent.ac.in
